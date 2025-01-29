@@ -1,0 +1,146 @@
+# ----------------------------------------
+# kizunacare.com
+# UTM Report - Event Metrics-Free form 1
+# 20250101-20250113
+# ----------------------------------------
+
+,,,,Event name,page_view,session_start,first_visit,user_engagement,scroll,redirect_to_caregiver_form,redirect_to_family_form,caregiver_form_submission,Thank_You_Page,family_form_submission,Totals
+Date,Session source / medium,Session campaign,Session manual ad content,Session manual term,Event count,Event count,Event count,Event count,Event count,Event count,Event count,Event count,Event count,Event count,Event count
+,,,,,2176,1433,1172,777,314,79,47,14,6,3,6021,Grand total
+20250101,(direct) / (none),(direct),(not set),(not set),54,54,52,1,1,0,0,0,0,0,162
+20250101,facebook.com / referral,(referral),(not set),(not set),2,2,2,2,0,0,0,0,0,0,8
+20250101,google / organic,(organic),(not set),(not provided),12,3,3,9,6,1,1,1,0,0,36
+20250101,m.facebook.com / referral,(referral),(not set),(not set),96,89,82,3,3,2,1,0,0,0,276
+20250101,marinij / email,(not set),(not set),(not set),1,1,1,0,0,0,0,0,0,0,3
+20250101,medium.com / referral,(referral),(not set),(not set),4,2,0,3,0,0,0,0,0,0,9
+20250101,yahoo / organic,(organic),(not set),(not provided),1,1,1,1,1,0,0,0,0,0,5
+20250102,(direct) / (none),(direct),(not set),(not set),55,54,47,4,0,0,1,0,0,0,161
+20250102,google / organic,(organic),(not set),(not provided),6,2,1,4,2,0,1,0,2,1,19
+20250102,l.facebook.com / referral,(referral),(not set),(not set),1,1,1,1,0,0,0,0,0,0,4
+20250102,m.facebook.com / referral,(referral),(not set),(not set),103,92,81,8,6,3,0,2,0,0,295
+20250103,(direct) / (none),(direct),(not set),(not set),59,59,55,10,6,0,0,0,0,0,189
+20250103,(not set),(not set),(not set),(not set),0,0,0,1,0,0,0,0,0,0,1
+20250103,an / an,120213075935380406,120213076027900406,(not set),1,1,0,0,0,0,0,0,0,0,2
+20250103,bing / organic,(organic),(not set),(not provided),1,1,1,1,0,0,0,0,0,0,4
+20250103,bluehost.com / referral,(referral),(not set),(not set),6,1,0,6,5,0,0,0,0,0,18
+20250103,business.facebook.com / referral,(referral),(not set),(not set),3,2,0,1,0,1,0,0,0,0,7
+20250103,duckduckgo / organic,(organic),(not set),(not set),1,1,1,1,0,0,0,0,0,0,4
+20250103,facebook.com / referral,(referral),(not set),(not set),1,1,1,1,0,0,0,0,0,0,4
+20250103,google / organic,(organic),(not set),(not provided),1,1,1,1,1,0,0,0,0,0,5
+20250103,l.facebook.com / referral,(referral),(not set),(not set),1,1,1,1,0,0,0,0,0,0,4
+20250103,listrak / Email,Need In-Home Care? Free Matching Ends Soon! 🏠,(not set),https://kizunacare.com/continue/?utm_source=marinij&utm_medium=email,1,1,0,1,0,0,0,0,0,0,3
+20250103,m.facebook.com / referral,(referral),(not set),(not set),121,111,100,8,6,2,0,3,0,0,351
+20250103,medium.com / referral,(referral),(not set),(not set),4,2,0,3,0,0,0,0,0,0,9
+20250103,search.google.com / referral,(referral),(not set),(not set),1,1,0,0,0,0,0,0,0,0,2
+20250104,(direct) / (none),(direct),(not set),(not set),21,21,20,1,1,0,0,0,0,0,64
+20250104,business.facebook.com / referral,(referral),(not set),(not set),1,1,0,1,0,0,0,0,0,0,3
+20250104,facebook.com / referral,(referral),(not set),(not set),1,1,1,1,0,0,0,0,0,0,4
+20250104,google / cpc,(not set),(not set),(not set),1,1,1,0,0,0,0,0,0,0,3
+20250104,google / organic,(organic),(not set),(not provided),4,1,1,2,0,1,0,1,0,0,10
+20250104,l.facebook.com / referral,(referral),(not set),(not set),3,2,2,3,3,0,0,0,0,0,13
+20250104,m.facebook.com / referral,(referral),(not set),(not set),94,92,82,0,4,0,0,0,0,0,272
+20250104,m.prod.facebook.com / referral,(referral),(not set),(not set),1,1,0,0,0,0,0,0,0,0,2
+20250104,marinij / email,(not set),(not set),(not set),1,1,1,0,0,0,0,0,0,0,3
+20250105,(direct) / (none),(direct),(not set),(not set),18,11,9,10,1,0,0,0,0,0,49
+20250105,duckduckgo / organic,(organic),(not set),(not set),1,1,1,0,0,0,0,0,0,0,3
+20250105,google / cpc,(not set),(not set),(not set),1,1,1,0,0,0,0,0,0,0,3
+20250105,google / organic,(organic),(not set),(not provided),4,1,1,3,0,0,0,0,0,0,9
+20250105,l.facebook.com / referral,(referral),(not set),(not set),117,56,50,29,13,2,2,0,0,0,269
+20250105,m.facebook.com / referral,(referral),(not set),(not set),108,90,75,12,10,3,3,1,2,1,305
+20250105,marinij / email,(not set),(not set),(not set),1,1,0,0,0,0,0,0,0,0,2
+20250105,medium.com / referral,(referral),(not set),(not set),3,2,0,2,0,0,0,0,0,0,7
+20250106,(direct) / (none),(direct),(not set),(not set),25,15,11,11,1,2,1,2,0,0,68
+20250106,business.facebook.com / referral,(referral),(not set),(not set),6,2,0,3,0,2,0,0,0,0,13
+20250106,cn.bing.com / referral,(referral),(not set),(not set),1,1,1,1,0,0,0,0,0,0,4
+20250106,duckduckgo / organic,(organic),(not set),(not set),1,1,1,1,1,0,0,0,0,0,5
+20250106,facebook / paid_social,2025_sf_leads_families,newcost,families_oginterest,9,7,7,2,1,2,1,0,0,0,29
+20250106,facebook / paid_social,2025_sf_leads_families,newtrust,families_oginterest,7,6,6,2,2,0,0,0,0,0,23
+20250106,google / organic,(organic),(not set),(not provided),7,7,6,4,2,0,0,0,0,0,26
+20250106,instagram / paid_social,2025_sf_leads_families,newcost,families_oginterest,15,9,9,2,1,4,2,0,0,0,42
+20250106,instagram / paid_social,2025_sf_leads_families,newtrust,families_oginterest,17,8,7,8,2,2,2,0,0,0,46
+20250106,l.facebook.com / referral,(referral),(not set),(not set),33,19,15,17,7,4,1,0,0,0,96
+20250106,listrak / Email,Need In-Home Care? Free Matching Ends Soon! 🏠,(not set),https://kizunacare.com/continue/?utm_source=marinij&utm_medium=email,1,1,0,0,0,0,0,0,0,0,2
+20250106,m.facebook.com / referral,(referral),(not set),(not set),65,54,48,7,6,3,1,1,0,0,185
+20250106,marinij / email,(not set),(not set),(not set),1,1,1,0,0,0,0,0,0,0,3
+20250106,medium.com / referral,(referral),(not set),(not set),11,7,0,8,0,0,0,0,0,0,26
+20250106,search.google.com / referral,(referral),(not set),(not set),6,1,0,6,4,0,0,0,0,0,17
+20250106,us.search.yahoo.com / referral,(referral),(not set),(not set),1,1,1,1,0,0,0,0,0,0,4
+20250107,(direct) / (none),(direct),(not set),(not set),18,14,9,9,3,0,0,0,0,0,53
+20250107,(not set),(not set),(not set),(not set),2,0,0,2,2,0,0,0,2,1,9
+20250107,bluehost.com / referral,(referral),(not set),(not set),42,1,0,44,23,0,0,0,0,0,110
+20250107,facebook / paid_social,2025_sf_leads_families,newcost,families_oginterest,14,9,9,7,4,1,0,1,0,0,45
+20250107,facebook / paid_social,2025_sf_leads_families,newtrust,families_oginterest,18,10,7,13,2,1,0,0,0,0,51
+20250107,google / organic,(organic),(not set),(not provided),9,8,6,5,2,0,0,0,0,0,30
+20250107,instagram / paid_social,2025_sf_leads_families,newcost,families_oginterest,7,7,7,0,0,0,0,0,0,0,21
+20250107,instagram / paid_social,2025_sf_leads_families,newtrust,families_oginterest,3,2,1,0,0,0,0,0,0,0,6
+20250107,marinij / email,(not set),(not set),(not set),2,2,2,0,0,0,0,0,0,0,6
+20250107,medium.com / referral,(referral),(not set),(not set),18,8,0,9,0,0,0,0,0,0,35
+20250107,teams.microsoft.com / referral,(referral),(not set),(not set),13,2,0,13,3,0,0,0,0,0,31
+20250108,(direct) / (none),(direct),(not set),(not set),85,51,46,52,17,2,2,0,0,0,255
+20250108,apps.usw2.pure.cloud / referral,(referral),(not set),(not set),4,1,0,5,0,0,0,0,0,0,10
+20250108,bluehost.com / referral,(referral),(not set),(not set),3,1,0,1,2,0,0,0,0,0,7
+20250108,box4179.bluehost.com:2083 / referral,(referral),(not set),(not set),32,2,0,32,15,0,0,0,0,0,81
+20250108,business.facebook.com / referral,(referral),(not set),(not set),13,3,0,11,4,1,2,0,0,0,34
+20250108,facebook / paid_social,2025_sf_leads_families,newcost,families_oginterest,13,12,12,0,1,1,0,0,0,0,39
+20250108,facebook / paid_social,2025_sf_leads_families,newtrust,families_oginterest,13,12,11,1,2,0,0,0,0,0,39
+20250108,google / cpc,(referral),(not set),(not set),1,1,1,0,0,0,0,0,0,0,3
+20250108,google / organic,(organic),(not set),(not provided),7,5,1,5,0,0,0,0,0,0,18
+20250108,instagram / paid_social,2025_sf_leads_families,newcost,families_oginterest,16,12,12,3,5,2,0,0,0,0,50
+20250108,instagram / paid_social,2025_sf_leads_families,newtrust,families_oginterest,4,4,4,0,1,0,0,0,0,0,13
+20250108,l.instagram.com / referral,(referral),(not set),(not set),1,1,1,0,0,0,0,0,0,0,3
+20250108,marinij / email,(not set),(not set),(not set),1,1,1,0,0,0,0,0,0,0,3
+20250108,medium.com / referral,(referral),(not set),(not set),9,5,0,8,0,0,0,0,0,0,22
+20250108,sh118.webhostingservices.com:2083 / referral,(referral),(not set),(not set),1,1,0,1,0,0,0,0,0,0,3
+20250108,teams.microsoft.com / referral,(referral),(not set),(not set),6,2,0,8,0,0,0,0,0,0,16
+20250109,(direct) / (none),(direct),(not set),(not set),36,27,15,21,6,1,2,0,0,0,108
+20250109,(not set),(not set),(not set),(not set),1,0,0,0,0,0,0,0,0,0,1
+20250109,box4179.bluehost.com:2083 / referral,(referral),(not set),(not set),34,2,0,31,21,0,1,0,0,0,89
+20250109,facebook / paid_social,2025_sf_leads_families,newcost,families_oginterest,12,9,8,5,2,1,0,0,0,0,37
+20250109,facebook / paid_social,2025_sf_leads_families,newtrust,families_oginterest,8,9,7,2,2,0,0,0,0,0,28
+20250109,facebook.com / referral,(referral),(not set),(not set),2,2,2,2,0,0,0,0,0,0,8
+20250109,google / organic,(organic),(not set),(not provided),4,4,0,3,1,0,0,0,0,0,12
+20250109,instagram / paid_social,2025_sf_leads_families,newcost,families_oginterest,10,8,7,1,1,0,1,0,0,0,28
+20250109,instagram / paid_social,2025_sf_leads_families,newtrust,families_oginterest,2,2,1,0,1,0,0,0,0,0,6
+20250109,marinij / email,(not set),(not set),(not set),1,1,0,0,0,0,0,0,0,0,2
+20250109,medium.com / referral,(referral),(not set),(not set),11,4,0,7,0,0,0,0,0,0,22
+20250109,teams.microsoft.com / referral,(referral),(not set),(not set),7,3,0,4,4,1,0,0,0,0,19
+20250110,(direct) / (none),(direct),(not set),(not set),17,10,5,10,7,1,1,0,0,0,51
+20250110,127.0.0.1:5500 / referral,(referral),(not set),(not set),2,1,0,2,0,0,0,0,0,0,5
+20250110,box4179.bluehost.com:2083 / referral,(referral),(not set),(not set),1,1,0,0,0,0,0,0,0,0,2
+20250110,facebook / paid_social,2025_sf_leads_families,newcost,families_oginterest,23,19,19,4,2,2,0,0,0,0,69
+20250110,facebook / paid_social,2025_sf_leads_families,newtrust,families_oginterest,15,12,10,4,2,0,0,0,0,0,43
+20250110,google / cpc,(not set),(not set),(not set),2,2,2,0,0,0,0,0,0,0,6
+20250110,google / organic,(organic),(not set),(not provided),12,8,6,8,6,0,0,0,0,0,40
+20250110,instagram / paid_social,2025_sf_leads_families,newcost,families_oginterest,14,11,11,1,2,0,1,0,0,0,40
+20250110,instagram / paid_social,2025_sf_leads_families,newtrust,families_oginterest,1,1,1,0,0,0,0,0,0,0,3
+20250110,l.instagram.com / referral,(referral),(not set),(not set),1,1,1,0,0,0,0,0,0,0,3
+20250110,medium.com / referral,(referral),(not set),(not set),2,1,0,1,0,0,0,0,0,0,4
+20250111,(direct) / (none),(direct),(not set),(not set),3,3,3,1,0,0,0,0,0,0,10
+20250111,(not set),(not set),(not set),(not set),193,91,80,45,22,20,9,0,0,0,460
+20250111,duckduckgo / organic,(organic),(not set),(not set),1,1,1,1,0,0,0,0,0,0,4
+20250111,facebook / paid_social,2025_sf_leads_families,newcost,families_oginterest,6,3,2,3,1,1,0,0,0,0,16
+20250111,facebook / paid_social,2025_sf_leads_families,newtrust,families_oginterest,3,3,2,1,1,0,0,0,0,0,10
+20250111,instagram / paid_social,2025_sf_leads_families,newcost,families_oginterest,6,5,4,1,1,0,0,0,0,0,17
+20250112,(direct) / (none),(direct),(not set),(not set),12,7,2,12,0,0,0,0,0,0,33
+20250112,(not set),(not set),(not set),(not set),1,0,0,0,0,0,0,0,0,0,1
+20250112,facebook / paid_social,2025_sf_leads_families,newcost,families_oginterest,18,11,10,9,6,2,0,0,0,0,56
+20250112,facebook / paid_social,2025_sf_leads_families,newtrust,families_oginterest,3,2,2,2,1,0,0,0,0,0,10
+20250112,facebook.com / referral,(referral),(not set),(not set),1,1,1,0,0,0,0,0,0,0,3
+20250112,google / organic,(organic),(not set),(not provided),8,1,0,7,1,0,0,0,0,0,17
+20250112,instagram / paid_social,2025_sf_leads_families,newcost,families_oginterest,13,9,8,3,3,0,2,0,0,0,38
+20250112,l.facebook.com / referral,(referral),(not set),(not set),5,2,1,2,1,1,0,0,0,0,12
+20250112,medium.com / referral,(referral),(not set),(not set),8,3,0,7,0,0,0,0,0,0,18
+20250112,yahoo / organic,(organic),(not set),(not provided),1,1,0,1,0,0,0,0,0,0,3
+20250113,(direct) / (none),(direct),(not set),(not set),20,18,16,3,2,0,0,1,0,0,60
+20250113,box4179.bluehost.com:2083 / referral,(referral),(not set),(not set),2,1,0,2,0,0,0,0,0,0,5
+20250113,business.facebook.com / referral,(referral),(not set),(not set),3,1,0,3,0,0,0,0,0,0,7
+20250113,facebook / paid_social,2025_sf_leads_families,newcost,families_oginterest,26,16,15,8,6,3,1,1,0,0,76
+20250113,facebook / paid_social,2025_sf_leads_families,newtrust,families_oginterest,2,4,0,3,0,0,0,0,0,0,9
+20250113,google / organic,(organic),(not set),(not provided),114,7,2,100,24,2,8,0,0,0,257
+20250113,instagram / paid_social,2025_sf_leads_families,newcost,families_oginterest,10,7,7,1,1,2,0,0,0,0,28
+20250113,linkedin.com / referral,(referral),(not set),(not set),7,1,1,7,2,0,0,0,0,0,18
+20250113,marinij / email,(not set),(not set),(not set),3,3,0,2,0,0,0,0,0,0,8
+20250113,medium.com / referral,(referral),(not set),(not set),4,4,0,4,1,0,0,0,0,0,13
+20250113,search.google.com / referral,(referral),(not set),(not set),6,3,0,5,2,0,0,0,0,0,16
+20250113,yahoo / organic,(organic),(not set),(not provided),2,2,1,1,0,0,0,0,0,0,6
+

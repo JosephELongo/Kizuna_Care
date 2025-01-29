@@ -1,0 +1,209 @@
+date,channel,campaign,ad_group,ad,impressions,clicks,spend,platform_measured_conversions,page_view,session_start,user_engagement,first_visit,scroll,redirect_to_caregiver_form,redirect_to_family_form,caregiver_form_submission,thank_you_page,family_form_submission,total_events,sessions,engaged_sessions
+2025-01-07,Search,TS / Search / San Francisco,Personal Care Services,N/A,17.0,2.0,2.87,0.0,2.0,2.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,2.0,0.0
+2025-01-13,Social,(referral),(not set),(referral)_fbfeed_(not set),,,,,3.0,1.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,7.0,1.0,1.0
+2025-01-02,,families nov 12 campaign,family - adv targeting - pickleball/traveler,cost,4697.0,67.0,69.45,0.0,,,,,,,,,,,,,
+2025-01-02,Social,(referral),(not set),(referral)_fbfeed_(not set),,,,,104.0,93.0,82.0,9.0,6.0,3.0,0.0,2.0,0.0,0.0,299.0,93.0,7.0
+2025-01-08,google / organic,(organic),(not set),(not provided),,,,,7.0,5.0,1.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,18.0,5.0,2.0
+2025-01-13,Search,TS / Search / San Francisco,Personal Care Services,N/A,11.0,0.0,0.0,0.0,,,,,,,,,,,,,
+2025-01-13,(direct) / (none),(direct),(not set),(not set),,,,,20.0,18.0,16.0,3.0,2.0,0.0,0.0,1.0,0.0,0.0,60.0,18.0,4.0
+2025-01-09,Social,2025_sf_leads_families,2025_sf_leads_families_igfeed_oginterest,newcost,2170.0,7.0,61.88,0.0,10.0,8.0,7.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,28.0,8.0,3.0
+2025-01-13,Search,TS / Search / San Francisco,Senior Care Services,N/A,50.0,2.0,10.63,0.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,1.0,0.0
+2025-01-10,Search,TS / Search / San Francisco,Senior Care Services,N/A,164.0,7.0,43.07,0.0,7.0,6.0,7.0,5.0,1.0,0.0,1.0,0.0,0.0,0.0,27.0,6.0,3.0
+2025-01-01,Search,TS / Search / San Francisco,Respite Care Services,N/A,2.0,0.0,0.0,0.0,,,,,,,,,,,,,
+2025-01-10,google / organic,(organic),(not set),(not provided),,,,,12.0,8.0,6.0,8.0,6.0,0.0,0.0,0.0,0.0,0.0,40.0,8.0,5.0
+2025-01-11,Search,TS / Search / San Francisco,In-Home Care Services,N/A,274.0,13.0,149.96,0.0,2.0,2.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,7.0,2.0,1.0
+2025-01-11,(not set),(not set),(not set),(not set),,,,,193.0,91.0,80.0,45.0,22.0,20.0,9.0,0.0,0.0,0.0,460.0,91.0,45.0
+2025-01-07,(not set)---marinij / email,(not set),(not set),(not set),,,,,4.0,2.0,2.0,2.0,2.0,0.0,0.0,0.0,2.0,1.0,15.0,3.0,0.0
+2025-01-08,Search,TS / Search / San Francisco,Personal Care Services,N/A,9.0,1.0,1.95,0.0,3.0,1.0,2.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,8.0,1.0,1.0
+2025-01-06,Search,TS / Search / San Francisco,In-Home Care Services,N/A,306.0,15.0,54.3,0.0,27.0,14.0,17.0,14.0,5.0,1.0,3.0,0.0,0.0,0.0,81.0,14.0,10.0
+2025-01-09,Search,TS / Search / San Francisco,Personal Care Services,N/A,12.0,0.0,0.0,0.0,,,,,,,,,,,,,
+2025-01-08,Search,TS / Search / San Francisco,Brand,N/A,1.0,1.0,0.91,0.0,,,,,,,,,,,,,
+2025-01-12,,2025_sf_leads_families,2025_sf_leads_families_igfeed_oginterest,newtrust,220.0,0.0,15.75,0.0,,,,,,,,,,,,,
+2025-01-09,Search,TS / Search / San Francisco,Old Keywords,N/A,195.0,5.0,13.64,0.0,13.0,6.0,8.0,5.0,4.0,2.0,1.0,1.0,0.0,0.0,40.0,6.0,4.0
+2025-01-12,(direct) / (none),(direct),(not set),(not set),,,,,12.0,7.0,2.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0,33.0,7.0,2.0
+2025-01-01,Search,TS / Search / San Francisco,In-Home Care Services,N/A,116.0,4.0,26.4,0.0,9.0,4.0,2.0,2.0,3.0,2.0,1.0,0.0,0.0,0.0,23.0,4.0,3.0
+2025-01-02,Search,TS / Search / San Francisco,Senior Care Services,N/A,138.0,16.0,37.2,0.0,20.0,16.0,6.0,16.0,6.0,3.0,0.0,0.0,0.0,0.0,67.0,16.0,7.0
+2025-01-06,Search,TS / Search / San Francisco,Companion Care Services,N/A,39.0,2.0,4.39,0.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,4.0,1.0,1.0
+2025-01-12,Search,TS / Search / San Francisco,In-Home Care Services,N/A,220.0,11.0,97.04,0.0,17.0,11.0,13.0,10.0,5.0,1.0,1.0,1.0,0.0,0.0,59.0,11.0,8.0
+2025-01-10,Search,TS / Search / San Francisco,Old Keywords,N/A,357.0,15.0,107.66,0.0,16.0,12.0,8.0,12.0,5.0,1.0,2.0,0.0,0.0,0.0,56.0,12.0,8.0
+2025-01-04,Search,TS / Search / San Francisco,Personal Care Services,N/A,12.0,3.0,9.09,0.0,5.0,3.0,3.0,2.0,1.0,1.0,0.0,0.0,0.0,0.0,15.0,3.0,3.0
+2025-01-10,Search,TS / Search / San Francisco,Companion Care Services,N/A,34.0,5.0,29.4,0.0,7.0,4.0,4.0,4.0,1.0,1.0,1.0,0.0,0.0,0.0,22.0,4.0,2.0
+2025-01-09,Social,2025_sf_leads_families,2025_sf_leads_families_fbfeed_oginterest,newcost,1880.0,9.0,45.29,0.0,12.0,9.0,8.0,5.0,2.0,1.0,0.0,0.0,0.0,0.0,37.0,9.0,4.0
+2025-01-11,Social,2025_sf_leads_families,2025_sf_leads_families_igfeed_oginterest,newcost,1855.0,8.0,84.56,0.0,6.0,5.0,4.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,17.0,5.0,1.0
+2025-01-11,Search,TS / Search / San Francisco,Senior Care Services,N/A,78.0,3.0,26.46,0.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,5.0,1.0,1.0
+2025-01-07,bluehost.com / referral---medium.com / referral---teams.microsoft.com / referral,(referral),(not set),(not set),,,,,73.0,11.0,0.0,66.0,26.0,0.0,0.0,0.0,0.0,0.0,176.0,11.0,9.0
+2025-01-14,,2025_sf_leads_families,2025_sf_leads_families_fbfeed_oginterest,newcost,418.0,0.0,17.57,0.0,,,,,,,,,,,,,
+2025-01-12,google / organic---yahoo / organic,(organic),(not set),(not provided),,,,,9.0,2.0,0.0,8.0,1.0,0.0,0.0,0.0,0.0,0.0,20.0,2.0,2.0
+2025-01-07,Social,2025_sf_leads_families,2025_sf_leads_families_fbfeed_oginterest,newtrust,931.0,7.0,26.19,0.0,18.0,10.0,7.0,13.0,2.0,1.0,0.0,0.0,0.0,0.0,51.0,10.0,6.0
+2025-01-08,Social,2025_sf_leads_families,2025_sf_leads_families_igfeed_oginterest,newcost,2028.0,11.0,51.08,0.0,16.0,12.0,12.0,3.0,5.0,2.0,0.0,0.0,0.0,0.0,50.0,12.0,5.0
+2025-01-03,(not set),(not set),(not set),(not set),,,,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0
+2025-01-07,(direct) / (none),(direct),(not set),(not set),,,,,18.0,14.0,9.0,9.0,3.0,0.0,0.0,0.0,0.0,0.0,53.0,14.0,6.0
+2025-01-14,,2025_sf_leads_families,2025_sf_leads_families_placeopt_geoonly,newtrust,22.0,1.0,0.85,0.0,,,,,,,,,,,,,
+2025-01-06,,families nov 12 campaign,family - adv targeting - pickleball/traveler,expertise: top independent caregivers,708.0,18.0,8.74,0.0,,,,,,,,,,,,,
+2025-01-03,Social,(referral),(not set),(referral)_fbfeed_(not set),,,,,126.0,115.0,102.0,11.0,6.0,3.0,0.0,3.0,0.0,0.0,366.0,115.0,11.0
+2025-01-03,,families nov 12 campaign,family - adv targeting - pickleball/traveler,expertise: top independent caregivers,4639.0,79.0,57.11,0.0,,,,,,,,,,,,,
+2025-01-06,listrak / Email,need in-home care? free matching ends soon! 🏠,(not set),https://kizunacare.com/continue/?utm_source=marinij&utm_medium=email,,,,,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,1.0,0.0
+2025-01-07,Search,TS / Search / San Francisco,Old Keywords,N/A,265.0,21.0,93.62,1.0,28.0,18.0,20.0,18.0,10.0,2.0,2.0,2.0,3.0,1.0,104.0,18.0,11.0
+2025-01-13,Search,TS / Search / San Francisco,Companion Care Services,N/A,11.0,1.0,4.0,0.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,1.0,1.0
+2025-01-13,Social,2025_sf_leads_families,2025_sf_leads_families_fbfeed_oginterest,newtrust,399.0,0.0,19.81,0.0,2.0,4.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,9.0,4.0,1.0
+2025-01-05,google / organic,(organic),(not set),(not provided),,,,,4.0,1.0,1.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,9.0,1.0,1.0
+2025-01-02,Search,TS / Search / San Francisco,Brand,N/A,4.0,1.0,4.27,0.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,5.0,1.0,1.0
+2025-01-10,(direct) / (none),(direct),(not set),(not set),,,,,17.0,10.0,5.0,10.0,7.0,1.0,1.0,0.0,0.0,0.0,51.0,10.0,6.0
+2025-01-09,google / organic,(organic),(not set),(not provided),,,,,4.0,4.0,0.0,3.0,1.0,0.0,0.0,0.0,0.0,0.0,12.0,4.0,2.0
+2025-01-07,Social,2025_sf_leads_families,2025_sf_leads_families_igfeed_oginterest,newtrust,1166.0,2.0,21.93,0.0,3.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,2.0,1.0
+2025-01-08,Search,TS / Search / San Francisco,Old Keywords,N/A,166.0,5.0,36.63,1.0,10.0,6.0,8.0,5.0,4.0,1.0,1.0,0.0,3.0,1.0,39.0,6.0,2.0
+2025-01-07,Search,TS / Search / San Francisco,Brand,N/A,2.0,0.0,0.0,0.0,,,,,,,,,,,,,
+2025-01-08,apps.usw2.pure.cloud / referral---bluehost.com / referral---box4179.bluehost.com:2083 / referral---google / cpc---medium.com / referral---sh118.webhostingservices.com:2083 / referral---teams.microsoft.com / referral,(referral),(not set),(not set),,,,,56.0,13.0,1.0,55.0,17.0,0.0,0.0,0.0,0.0,0.0,142.0,13.0,9.0
+2025-01-02,(direct) / (none),(direct),(not set),(not set),,,,,55.0,54.0,47.0,4.0,0.0,0.0,1.0,0.0,0.0,0.0,161.0,54.0,3.0
+2025-01-10,Social,2025_sf_leads_families,2025_sf_leads_families_igfeed_oginterest,newtrust,1220.0,1.0,23.78,0.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,1.0,0.0
+2025-01-11,Social,2025_sf_leads_families,2025_sf_leads_families_fbfeed_oginterest,newtrust,514.0,9.0,30.99,0.0,3.0,3.0,2.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,10.0,3.0,1.0
+2025-01-12,Social,2025_sf_leads_families,2025_sf_leads_families_igfeed_oginterest,newcost,1597.0,8.0,87.92,0.0,13.0,9.0,8.0,3.0,3.0,0.0,2.0,0.0,0.0,0.0,38.0,9.0,3.0
+2025-01-13,Social,2025_sf_leads_families,2025_sf_leads_families_igfeed_oginterest,newcost,1731.0,7.0,93.69,0.0,10.0,7.0,7.0,1.0,1.0,2.0,0.0,0.0,0.0,0.0,28.0,7.0,3.0
+2025-01-06,Search,TS / Search / San Francisco,Senior Care Services,N/A,115.0,15.0,56.65,1.0,17.0,14.0,2.0,14.0,1.0,2.0,0.0,0.0,0.0,0.0,50.0,14.0,5.0
+2025-01-05,duckduckgo / organic,(organic),(not set),(not set),,,,,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,1.0,0.0
+2025-01-12,Search,TS / Search / San Francisco,Companion Care Services,N/A,16.0,1.0,4.21,0.0,2.0,1.0,2.0,1.0,2.0,1.0,0.0,0.0,0.0,0.0,9.0,1.0,1.0
+2025-01-10,google / cpc,(not set),(not set),(not set),,,,,2.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,2.0,0.0
+2025-01-04,(direct) / (none),(direct),(not set),(not set),,,,,21.0,21.0,20.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,64.0,21.0,1.0
+2025-01-03,Search,TS / Search / San Francisco,Senior Care Services,N/A,100.0,13.0,27.93,0.0,13.0,12.0,2.0,12.0,3.0,1.0,0.0,0.0,0.0,0.0,43.0,12.0,4.0
+2025-01-03,bing / organic---google / organic,(organic),(not set),(not provided),,,,,2.0,2.0,2.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,9.0,2.0,1.0
+2025-01-04,Search,TS / Search / San Francisco,Brand,N/A,1.0,1.0,0.01,0.0,5.0,1.0,4.0,0.0,2.0,0.0,1.0,0.0,0.0,0.0,13.0,1.0,1.0
+2025-01-10,Search,TS / Search / San Francisco,Brand,N/A,2.0,2.0,14.64,0.0,,,,,,,,,,,,,
+2025-01-06,Social,2025_sf_leads_families,newtrust,2025_sf_leads_families_igfeed_oginterest,,,,,17.0,8.0,7.0,8.0,2.0,2.0,2.0,0.0,0.0,0.0,46.0,8.0,8.0
+2025-01-12,Social,2025_sf_leads_families,2025_sf_leads_families_fbfeed_oginterest,newtrust,327.0,4.0,33.03,0.0,3.0,2.0,2.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,10.0,2.0,1.0
+2025-01-01,,families nov 12 campaign,family - adv targeting - pickleball/traveler,expertise: top independent caregivers,8894.0,69.0,74.22,0.0,,,,,,,,,,,,,
+2025-01-03,Search,TS / Search / San Francisco,Personal Care Services,N/A,15.0,2.0,5.21,0.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,1.0,1.0
+2025-01-01,google / organic---yahoo / organic,(organic),(not set),(not provided),,,,,13.0,4.0,4.0,10.0,7.0,1.0,1.0,1.0,0.0,0.0,41.0,4.0,4.0
+2025-01-05,medium.com / referral,(referral),(not set),(not set),,,,,3.0,2.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,7.0,2.0,1.0
+2025-01-09,box4179.bluehost.com:2083 / referral---medium.com / referral---teams.microsoft.com / referral,(referral),(not set),(not set),,,,,52.0,9.0,0.0,42.0,25.0,1.0,1.0,0.0,0.0,0.0,130.0,9.0,6.0
+2025-01-11,Search,TS / Search / San Francisco,Companion Care Services,N/A,18.0,0.0,0.0,0.0,,,,,,,,,,,,,
+2025-01-05,google / cpc---marinij / email,(not set),(not set),(not set),,,,,2.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,2.0,0.0
+2025-01-01,Search,TS / Search / San Francisco,Senior Care Services,N/A,51.0,4.0,5.7,0.0,6.0,4.0,1.0,3.0,1.0,0.0,0.0,0.0,0.0,0.0,15.0,4.0,2.0
+2025-01-08,(direct) / (none),(direct),(not set),(not set),,,,,85.0,51.0,46.0,52.0,17.0,2.0,2.0,0.0,0.0,0.0,255.0,51.0,15.0
+2025-01-09,Search,TS / Search / San Francisco,Senior Care Services,N/A,26.0,0.0,0.0,0.0,,,,,,,,,,,,,
+2025-01-08,Social,2025_sf_leads_families,2025_sf_leads_families_fbfeed_oginterest,newcost,1408.0,12.0,32.65,0.0,13.0,12.0,12.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,39.0,12.0,1.0
+2025-01-02,Search,TS / Search / San Francisco,Old Keywords,N/A,357.0,28.0,176.52,1.0,51.0,27.0,33.0,23.0,21.0,7.0,4.0,2.0,2.0,1.0,171.0,27.0,20.0
+2025-01-06,Search,TS / Search / San Francisco,Old Keywords,N/A,288.0,31.0,86.07,1.0,62.0,26.0,39.0,24.0,19.0,7.0,3.0,3.0,1.0,1.0,185.0,26.0,17.0
+2025-01-12,Social,2025_sf_leads_families,2025_sf_leads_families_fbfeed_oginterest,newcost,1464.0,12.0,70.76,0.0,18.0,11.0,10.0,9.0,6.0,2.0,0.0,0.0,0.0,0.0,56.0,11.0,3.0
+2025-01-05,Search,TS / Search / San Francisco,Old Keywords,N/A,224.0,16.0,67.06,0.0,22.0,15.0,9.0,13.0,9.0,3.0,0.0,0.0,0.0,0.0,71.0,15.0,12.0
+2025-01-10,Social,(referral),(not set),(referral)_igfeed_(not set),,,,,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,1.0,0.0
+2025-01-01,Search,TS / Search / San Francisco,Personal Care Services,N/A,22.0,2.0,6.42,0.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,1.0,0.0
+2025-01-13,Search,TS / Search / San Francisco,In-Home Care Services,N/A,168.0,10.0,71.61,0.0,12.0,10.0,11.0,9.0,1.0,0.0,2.0,0.0,0.0,0.0,45.0,10.0,8.0
+2025-01-01,,families nov 12 campaign,family - adv targeting - pickleball/traveler,cost,3983.0,69.0,53.08,0.0,,,,,,,,,,,,,
+2025-01-13,marinij / email,(not set),(not set),(not set),,,,,3.0,3.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,8.0,3.0,1.0
+2025-01-09,Social,2025_sf_leads_families,2025_sf_leads_families_igfeed_oginterest,newtrust,965.0,2.0,16.98,0.0,2.0,2.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,6.0,2.0,1.0
+2025-01-04,Search,TS / Search / San Francisco,In-Home Care Services,N/A,294.0,18.0,81.29,0.0,19.0,16.0,10.0,15.0,5.0,1.0,0.0,1.0,0.0,0.0,67.0,16.0,8.0
+2025-01-12,Search,TS / Search / San Francisco,Senior Care Services,N/A,54.0,2.0,6.38,0.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,4.0,1.0,1.0
+2025-01-04,google / organic,(organic),(not set),(not provided),,,,,4.0,1.0,1.0,2.0,0.0,1.0,0.0,1.0,0.0,0.0,10.0,1.0,1.0
+2025-01-11,duckduckgo / organic,(organic),(not set),(not set),,,,,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,1.0,1.0
+2025-01-03,bluehost.com / referral---medium.com / referral---search.google.com / referral,(referral),(not set),(not set),,,,,11.0,4.0,0.0,9.0,5.0,0.0,0.0,0.0,0.0,0.0,29.0,4.0,2.0
+2025-01-14,,2025_sf_leads_families,2025_sf_leads_families_igfeed_oginterest,newcost,230.0,0.0,14.53,0.0,,,,,,,,,,,,,
+2025-01-08,marinij / email,(not set),(not set),(not set),,,,,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,1.0,0.0
+2025-01-05,,families nov 12 campaign,family - adv targeting - pickleball/traveler,cost,4951.0,109.0,136.34,1.0,,,,,,,,,,,,,
+2025-01-08,Search,TS / Search / San Francisco,Senior Care Services,N/A,51.0,8.0,20.88,0.0,4.0,3.0,0.0,3.0,1.0,1.0,0.0,0.0,0.0,0.0,12.0,3.0,1.0
+2025-01-12,Search,TS / Search / San Francisco,Old Keywords,N/A,249.0,20.0,159.4,1.0,23.0,15.0,13.0,15.0,8.0,2.0,2.0,1.0,3.0,1.0,83.0,15.0,11.0
+2025-01-01,Search,TS / Search / San Francisco,Old Keywords,N/A,139.0,10.0,25.83,0.0,14.0,9.0,11.0,8.0,2.0,2.0,0.0,1.0,0.0,0.0,47.0,9.0,6.0
+2025-01-03,Search,TS / Search / San Francisco,In-Home Care Services,N/A,266.0,26.0,89.69,0.0,43.0,27.0,19.0,20.0,14.0,6.0,0.0,3.0,0.0,0.0,132.0,27.0,16.0
+2025-01-14,,2025_sf_leads_families,2025_sf_leads_families_igfeed_oginterest,newtrust,39.0,0.0,5.15,0.0,,,,,,,,,,,,,
+2025-01-01,marinij / email,(not set),(not set),(not set),,,,,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,1.0,0.0
+2025-01-05,Search,TS / Search / San Francisco,Personal Care Services,N/A,33.0,5.0,13.11,0.0,10.0,5.0,4.0,4.0,5.0,1.0,0.0,1.0,0.0,0.0,30.0,5.0,3.0
+2025-01-05,(direct) / (none),(direct),(not set),(not set),,,,,18.0,11.0,9.0,10.0,1.0,0.0,0.0,0.0,0.0,0.0,49.0,11.0,4.0
+2025-01-09,Social,(referral),(not set),(referral)_fbfeed_(not set),,,,,2.0,2.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,8.0,2.0,2.0
+2025-01-03,Search,TS / Search / San Francisco,Brand,N/A,2.0,1.0,3.35,0.0,,,,,,,,,,,,,
+2025-01-06,google / organic,(organic),(not set),(not provided),,,,,7.0,7.0,6.0,4.0,2.0,0.0,0.0,0.0,0.0,0.0,26.0,7.0,5.0
+2025-01-09,Search,TS / Search / San Francisco,In-Home Care Services,N/A,171.0,7.0,31.08,1.0,14.0,6.0,10.0,5.0,3.0,2.0,0.0,1.0,2.0,1.0,44.0,6.0,4.0
+2025-01-04,Search,TS / Search / San Francisco,Old Keywords,N/A,202.0,16.0,66.69,0.0,35.0,18.0,19.0,11.0,11.0,4.0,2.0,0.0,0.0,0.0,100.0,18.0,10.0
+2025-01-11,Search,TS / Search / San Francisco,Respite Care Services,N/A,16.0,2.0,11.23,0.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,1.0,1.0
+2025-01-13,box4179.bluehost.com:2083 / referral---linkedin.com / referral---medium.com / referral---search.google.com / referral,(referral),(not set),(not set),,,,,19.0,9.0,1.0,18.0,5.0,0.0,0.0,0.0,0.0,0.0,52.0,9.0,6.0
+2025-01-08,Social,2025_sf_leads_families,2025_sf_leads_families_fbfeed_oginterest,newtrust,2267.0,13.0,40.16,0.0,13.0,12.0,11.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,39.0,12.0,3.0
+2025-01-01,medium.com / referral,(referral),(not set),(not set),,,,,4.0,2.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,9.0,2.0,2.0
+2025-01-08,Search,TS / Search / San Francisco,In-Home Care Services,N/A,123.0,9.0,54.04,0.0,16.0,9.0,12.0,8.0,3.0,2.0,1.0,1.0,0.0,0.0,52.0,9.0,7.0
+2025-01-12,Search,TS / Search / San Francisco,Respite Care Services,N/A,19.0,3.0,10.08,0.0,3.0,2.0,3.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,10.0,2.0,2.0
+2025-01-06,duckduckgo / organic,(organic),(not set),(not set),,,,,1.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,5.0,1.0,1.0
+2025-01-06,Search,TS / Search / San Francisco,Brand,N/A,4.0,2.0,5.71,0.0,3.0,1.0,3.0,1.0,3.0,0.0,0.0,0.0,0.0,0.0,11.0,1.0,1.0
+2025-01-09,Search,TS / Search / San Francisco,Companion Care Services,N/A,18.0,3.0,18.34,0.0,3.0,2.0,3.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,10.0,2.0,2.0
+2025-01-13,Search,TS / Search / San Francisco,Old Keywords,N/A,154.0,9.0,101.21,0.0,13.0,9.0,10.0,8.0,3.0,1.0,2.0,0.0,0.0,0.0,46.0,9.0,5.0
+2025-01-07,,families nov 12 campaign,family - adv targeting - pickleball/traveler,cost,0.0,0.0,0.0,0.0,,,,,,,,,,,,,
+2025-01-02,google / organic,(organic),(not set),(not provided),,,,,6.0,2.0,1.0,4.0,2.0,0.0,1.0,0.0,2.0,1.0,19.0,2.0,2.0
+2025-01-03,duckduckgo / organic,(organic),(not set),(not set),,,,,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,1.0,1.0
+2025-01-10,Social,2025_sf_leads_families,2025_sf_leads_families_fbfeed_oginterest,newcost,3342.0,22.0,64.55,0.0,23.0,19.0,19.0,4.0,2.0,2.0,0.0,0.0,0.0,0.0,69.0,19.0,2.0
+2025-01-07,Social,2025_sf_leads_families,2025_sf_leads_families_igfeed_oginterest,newcost,1223.0,5.0,27.3,0.0,7.0,7.0,7.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,21.0,7.0,0.0
+2025-01-08,Search,TS / Search / San Francisco,Companion Care Services,N/A,33.0,7.0,13.43,0.0,13.0,5.0,3.0,5.0,3.0,2.0,1.0,0.0,0.0,0.0,32.0,5.0,3.0
+2025-01-12,Search,TS / Search / San Francisco,Brand,N/A,1.0,0.0,0.0,0.0,,,,,,,,,,,,,
+2025-01-07,Social,2025_sf_leads_families,2025_sf_leads_families_fbfeed_oginterest,newcost,760.0,8.0,24.06,0.0,14.0,9.0,9.0,7.0,4.0,1.0,0.0,1.0,0.0,0.0,45.0,9.0,3.0
+2025-01-14,,2025_sf_leads_families,2025_sf_leads_families_placeopt_geoonly,newcost,143.0,0.0,5.52,0.0,,,,,,,,,,,,,
+2025-01-01,Search,TS / Search / San Francisco,Companion Care Services,N/A,14.0,2.0,4.62,0.0,2.0,3.0,1.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,9.0,3.0,1.0
+2025-01-05,Search,TS / Search / San Francisco,Brand,N/A,1.0,1.0,3.1,0.0,,,,,,,,,,,,,
+2025-01-02,Search,TS / Search / San Francisco,Respite Care Services,N/A,14.0,1.0,1.39,0.0,3.0,1.0,4.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,10.0,1.0,1.0
+2025-01-03,Search,TS / Search / San Francisco,Companion Care Services,N/A,52.0,6.0,15.36,0.0,21.0,5.0,8.0,3.0,6.0,4.0,1.0,2.0,0.0,0.0,50.0,5.0,5.0
+2025-01-07,google / organic,(organic),(not set),(not provided),,,,,9.0,8.0,6.0,5.0,2.0,0.0,0.0,0.0,0.0,0.0,30.0,8.0,4.0
+2025-01-09,(not set)---marinij / email,(not set),(not set),(not set),,,,,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,2.0,0.0
+2025-01-06,Social,2025_sf_leads_families,newcost,2025_sf_leads_families_igfeed_oginterest,,,,,15.0,9.0,9.0,2.0,1.0,4.0,2.0,0.0,0.0,0.0,42.0,9.0,9.0
+2025-01-02,,families nov 12 campaign,family - adv targeting - pickleball/traveler,expertise: top independent caregivers,5703.0,76.0,62.9,0.0,,,,,,,,,,,,,
+2025-01-10,Search,TS / Search / San Francisco,In-Home Care Services,N/A,420.0,24.0,165.81,1.0,35.0,17.0,29.0,15.0,6.0,2.0,2.0,1.0,1.0,1.0,109.0,17.0,12.0
+2025-01-04,Search,TS / Search / San Francisco,Companion Care Services,N/A,57.0,12.0,27.11,0.0,17.0,11.0,1.0,10.0,4.0,2.0,1.0,0.0,0.0,0.0,46.0,11.0,7.0
+2025-01-06,marinij / email,(not set),(not set),(not set),,,,,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,1.0,0.0
+2025-01-08,Social,(referral),(not set),(referral)_fbfeed_(not set),,,,,13.0,3.0,0.0,11.0,4.0,1.0,2.0,0.0,0.0,0.0,34.0,3.0,3.0
+2025-01-13,Search,TS / Search / San Francisco,Brand,N/A,1.0,1.0,1.8,0.0,,,,,,,,,,,,,
+2025-01-05,Search,TS / Search / San Francisco,In-Home Care Services,N/A,261.0,21.0,70.47,0.0,30.0,19.0,16.0,16.0,6.0,4.0,0.0,1.0,0.0,0.0,92.0,19.0,11.0
+2025-01-06,Social,(referral),(not set),(referral)_fbfeed_(not set),,,,,104.0,75.0,63.0,27.0,13.0,9.0,2.0,1.0,0.0,0.0,294.0,75.0,22.0
+2025-01-05,Search,TS / Search / San Francisco,Senior Care Services,N/A,108.0,20.0,38.29,0.0,31.0,20.0,8.0,20.0,9.0,5.0,1.0,1.0,0.0,0.0,95.0,20.0,12.0
+2025-01-13,Search,TS / Search / San Francisco,Respite Care Services,N/A,3.0,0.0,0.0,0.0,,,,,,,,,,,,,
+2025-01-01,(direct) / (none),(direct),(not set),(not set),,,,,54.0,54.0,52.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,162.0,54.0,1.0
+2025-01-10,Search,TS / Search / San Francisco,Respite Care Services,N/A,49.0,1.0,4.48,0.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,1.0,1.0
+2025-01-12,Social,(referral),(not set),(referral)_fbfeed_(not set),,,,,6.0,3.0,2.0,2.0,1.0,1.0,0.0,0.0,0.0,0.0,15.0,3.0,1.0
+2025-01-08,Social,2025_sf_leads_families,2025_sf_leads_families_igfeed_oginterest,newtrust,1059.0,4.0,18.91,0.0,4.0,4.0,4.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,13.0,4.0,1.0
+2025-01-10,Search,TS / Search / San Francisco,Personal Care Services,N/A,17.0,1.0,6.83,0.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,1.0,1.0
+2025-01-06,cn.bing.com / referral---medium.com / referral---search.google.com / referral---us.search.yahoo.com / referral,(referral),(not set),(not set),,,,,19.0,10.0,2.0,16.0,4.0,0.0,0.0,0.0,0.0,0.0,51.0,10.0,7.0
+2025-01-14,,2025_sf_leads_families,2025_sf_leads_families_fbfeed_oginterest,newtrust,68.0,1.0,4.43,0.0,,,,,,,,,,,,,
+2025-01-04,google / cpc---marinij / email,(not set),(not set),(not set),,,,,2.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,2.0,0.0
+2025-01-03,Search,TS / Search / San Francisco,Respite Care Services,N/A,11.0,2.0,6.93,0.0,2.0,2.0,2.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,9.0,2.0,2.0
+2025-01-07,Search,TS / Search / San Francisco,Senior Care Services,N/A,67.0,9.0,17.97,0.0,14.0,10.0,8.0,7.0,4.0,2.0,0.0,1.0,0.0,0.0,46.0,10.0,5.0
+2025-01-02,Search,TS / Search / San Francisco,In-Home Care Services,N/A,448.0,22.0,82.07,0.0,43.0,24.0,21.0,21.0,11.0,6.0,0.0,2.0,0.0,0.0,128.0,24.0,16.0
+2025-01-12,(not set),(not set),(not set),(not set),,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0
+2025-01-06,(direct) / (none),(direct),(not set),(not set),,,,,25.0,15.0,11.0,11.0,1.0,2.0,1.0,2.0,0.0,0.0,68.0,15.0,4.0
+2025-01-08,Social,(referral),(not set),(referral)_igfeed_(not set),,,,,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,1.0,0.0
+2025-01-06,Social,2025_sf_leads_families,newcost,2025_sf_leads_families_fbfeed_oginterest,,,,,9.0,7.0,7.0,2.0,1.0,2.0,1.0,0.0,0.0,0.0,29.0,7.0,6.0
+2025-01-10,127.0.0.1:5500 / referral---box4179.bluehost.com:2083 / referral---medium.com / referral,(referral),(not set),(not set),,,,,5.0,3.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,11.0,3.0,2.0
+2025-01-11,(direct) / (none),(direct),(not set),(not set),,,,,3.0,3.0,3.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,10.0,3.0,1.0
+2025-01-06,,families nov 12 campaign,family - adv targeting - pickleball/traveler,cost,2626.0,66.0,59.82,0.0,,,,,,,,,,,,,
+2025-01-04,Social,(referral),(not set),(referral)_fbfeed_(not set),,,,,100.0,97.0,85.0,5.0,7.0,0.0,0.0,0.0,0.0,0.0,294.0,97.0,8.0
+2025-01-04,,families nov 12 campaign,family - adv targeting - pickleball/traveler,expertise: top independent caregivers,2499.0,46.0,35.09,0.0,,,,,,,,,,,,,
+2025-01-09,Social,2025_sf_leads_families,2025_sf_leads_families_fbfeed_oginterest,newtrust,2849.0,7.0,37.9,0.0,8.0,9.0,7.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,28.0,9.0,3.0
+2025-01-01,Search,TS / Search / San Francisco,Brand,N/A,3.0,2.0,1.96,0.0,2.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,5.0,1.0,1.0
+2025-01-05,Search,TS / Search / San Francisco,Respite Care Services,N/A,6.0,0.0,0.0,0.0,,,,,,,,,,,,,
+2025-01-01,Social,(referral),(not set),(referral)_fbfeed_(not set),,,,,98.0,91.0,84.0,5.0,3.0,2.0,1.0,0.0,0.0,0.0,284.0,91.0,7.0
+2025-01-02,Search,TS / Search / San Francisco,Companion Care Services,N/A,33.0,4.0,14.26,0.0,8.0,4.0,2.0,4.0,2.0,2.0,0.0,0.0,0.0,0.0,22.0,4.0,3.0
+2025-01-07,Search,TS / Search / San Francisco,Respite Care Services,N/A,11.0,0.0,0.0,0.0,,,,,,,,,,,,,
+2025-01-13,,2025_sf_leads_families,2025_sf_leads_families_igfeed_oginterest,newtrust,351.0,0.0,15.84,0.0,,,,,,,,,,,,,
+2025-01-11,Search,TS / Search / San Francisco,Personal Care Services,N/A,11.0,0.0,0.0,0.0,,,,,,,,,,,,,
+2025-01-03,listrak / Email,need in-home care? free matching ends soon! 🏠,(not set),https://kizunacare.com/continue/?utm_source=marinij&utm_medium=email,,,,,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,1.0,1.0
+2025-01-11,,2025_sf_leads_families,2025_sf_leads_families_igfeed_oginterest,newtrust,259.0,1.0,16.2,0.0,,,,,,,,,,,,,
+2025-01-06,Search,TS / Search / San Francisco,Respite Care Services,N/A,6.0,1.0,3.46,0.0,1.0,2.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,2.0,0.0
+2025-01-11,Search,TS / Search / San Francisco,Brand,N/A,3.0,1.0,26.88,0.0,,,,,,,,,,,,,
+2025-01-07,Search,TS / Search / San Francisco,In-Home Care Services,N/A,268.0,13.0,36.65,0.0,21.0,13.0,11.0,12.0,7.0,3.0,1.0,0.0,0.0,0.0,68.0,13.0,11.0
+2025-01-13,google / organic---yahoo / organic,(organic),(not set),(not provided),,,,,116.0,9.0,3.0,101.0,24.0,2.0,8.0,0.0,0.0,0.0,263.0,9.0,5.0
+2025-01-08,Search,TS / Search / San Francisco,Respite Care Services,N/A,2.0,0.0,0.0,0.0,,,,,,,,,,,,,
+2025-01-10,Social,2025_sf_leads_families,2025_sf_leads_families_fbfeed_oginterest,newtrust,2430.0,10.0,33.81,0.0,15.0,12.0,10.0,4.0,2.0,0.0,0.0,0.0,0.0,0.0,43.0,12.0,2.0
+2025-01-03,an / an,120213075935380406,120213076027900406,(not set),,,,,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,1.0,0.0
+2025-01-11,Search,TS / Search / San Francisco,Old Keywords,N/A,207.0,14.0,151.61,0.0,7.0,5.0,5.0,5.0,2.0,1.0,0.0,0.0,0.0,0.0,25.0,5.0,4.0
+2025-01-07,Search,TS / Search / San Francisco,Companion Care Services,N/A,43.0,3.0,7.96,0.0,3.0,3.0,0.0,3.0,1.0,0.0,0.0,0.0,0.0,0.0,10.0,3.0,1.0
+2025-01-03,(direct) / (none),(direct),(not set),(not set),,,,,59.0,59.0,55.0,10.0,6.0,0.0,0.0,0.0,0.0,0.0,189.0,59.0,4.0
+2025-01-10,Social,2025_sf_leads_families,2025_sf_leads_families_igfeed_oginterest,newcost,2628.0,11.0,70.53,0.0,14.0,11.0,11.0,1.0,2.0,0.0,1.0,0.0,0.0,0.0,40.0,11.0,3.0
+2025-01-03,Search,TS / Search / San Francisco,Old Keywords,N/A,218.0,17.0,69.37,0.0,27.0,16.0,14.0,14.0,12.0,6.0,0.0,2.0,0.0,0.0,91.0,16.0,13.0
+2025-01-03,,families nov 12 campaign,family - adv targeting - pickleball/traveler,cost,4524.0,82.0,78.82,0.0,,,,,,,,,,,,,
+2025-01-04,Search,TS / Search / San Francisco,Respite Care Services,N/A,14.0,0.0,0.0,0.0,,,,,,,,,,,,,
+2025-01-06,Search,TS / Search / San Francisco,Personal Care Services,N/A,35.0,4.0,6.58,0.0,7.0,5.0,4.0,3.0,2.0,1.0,1.0,0.0,0.0,0.0,23.0,5.0,4.0
+2025-01-02,Search,TS / Search / San Francisco,Personal Care Services,N/A,18.0,4.0,16.5,0.0,6.0,4.0,2.0,4.0,1.0,1.0,0.0,1.0,0.0,0.0,19.0,4.0,2.0
+2025-01-05,Social,(referral),(not set),(referral)_fbfeed_(not set),,,,,225.0,146.0,125.0,41.0,23.0,5.0,5.0,1.0,2.0,1.0,574.0,146.0,37.0
+2025-01-04,,families nov 12 campaign,family - adv targeting - pickleball/traveler,cost,4576.0,69.0,88.61,0.0,,,,,,,,,,,,,
+2025-01-09,(direct) / (none),(direct),(not set),(not set),,,,,36.0,27.0,15.0,21.0,6.0,1.0,2.0,0.0,0.0,0.0,108.0,27.0,8.0
+2025-01-05,Search,TS / Search / San Francisco,Companion Care Services,N/A,59.0,8.0,16.15,0.0,13.0,8.0,1.0,6.0,5.0,2.0,0.0,0.0,0.0,0.0,35.0,8.0,6.0
+2025-01-09,Search,TS / Search / San Francisco,Respite Care Services,N/A,18.0,0.0,0.0,0.0,,,,,,,,,,,,,
+2025-01-08,,families nov 12 campaign,family - adv targeting - pickleball/traveler,cost,0.0,0.0,0.0,0.0,,,,,,,,,,,,,
+2025-01-13,Social,2025_sf_leads_families,2025_sf_leads_families_fbfeed_oginterest,newcost,2107.0,14.0,82.22,0.0,26.0,16.0,15.0,8.0,6.0,3.0,1.0,1.0,0.0,0.0,76.0,16.0,9.0
+2025-01-12,Search,TS / Search / San Francisco,Personal Care Services,N/A,8.0,1.0,8.51,0.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,1.0,0.0
+2025-01-11,Social,2025_sf_leads_families,2025_sf_leads_families_fbfeed_oginterest,newcost,1650.0,15.0,65.89,0.0,6.0,3.0,2.0,3.0,1.0,1.0,0.0,0.0,0.0,0.0,16.0,3.0,3.0
+2025-01-06,Social,2025_sf_leads_families,newtrust,2025_sf_leads_families_fbfeed_oginterest,,,,,7.0,6.0,6.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,23.0,6.0,4.0
+2025-01-04,Search,TS / Search / San Francisco,Senior Care Services,N/A,116.0,20.0,45.08,0.0,32.0,19.0,12.0,15.0,10.0,3.0,1.0,0.0,0.0,0.0,92.0,19.0,12.0
+2025-01-12,medium.com / referral,(referral),(not set),(not set),,,,,8.0,3.0,0.0,7.0,0.0,0.0,0.0,0.0,0.0,0.0,18.0,3.0,2.0
+2025-01-05,,families nov 12 campaign,family - adv targeting - pickleball/traveler,expertise: top independent caregivers,2624.0,45.0,44.62,0.0,,,,,,,,,,,,,

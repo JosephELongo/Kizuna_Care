@@ -1,0 +1,87 @@
+#To create the database itself
+createdb kizuna_care
+
+#To access the database
+psql kizuna_care
+
+#To create tables:
+create table google_ads_reporting_data(
+    day varchar,
+    campaign varchar,
+    ad_group varchar,
+    impressions float,
+    clicks float,
+    ctr varchar,
+    currency_code varchar,
+    cost float,
+    conversions varchar,
+    conversion_rate varchar,
+    events_per_ga4_session varchar
+);
+
+create table ga4_search_event_data(
+    date varchar,
+    session_google_ads_account_name varchar,
+    session_google_ads_campaign varchar,
+    session_google_ads_ad_group_name varchar,
+    page_view float,
+    session_start float,
+    user_engagement float,
+    first_visit float,
+    scroll float,
+    redirect_to_caregiver_form float,
+    redirect_to_family_form float,
+    caregiver_form_submission float,
+    thank_you_page float,
+    family_form_submission float,
+    totals float
+);
+
+create table ga4_search_session_data(
+    date varchar,
+    session_google_ads_account_name varchar,
+    session_google_ads_campaign varchar,
+    session_google_ads_ad_group_name varchar,
+    sessions float,
+    engaged_sessions float
+);
+
+create table meta_reporting_data(
+    day varchar,
+    campaign_name varchar,
+    ad_set_name varchar,
+    ad_name varchar,
+    spend float,
+    impressions float,
+    link_clicks float,
+    family_form_submissions float
+);
+
+create table ga4_non_search_session_data(
+    date varchar,
+    session_source_medium varchar,
+    session_campaign varchar,
+    session_manual_ad_content varchar,
+    session_manual_term varchar,
+    sessions float,
+    engaged_sessions float
+);
+
+create table ga4_non_search_event_data(
+    date varchar,
+    session_source_medium varchar,
+    session_campaign varchar,
+    session_manual_ad_content varchar,
+    session_manual_term varchar,
+    page_view float,
+    session_start float,
+    user_engagement float,
+    first_visit float,
+    scroll float,
+    redirect_to_caregiver_form float,
+    redirect_to_family_form float,
+    caregiver_form_submission float,
+    thank_you_page float,
+    family_form_submission float,
+    totals float
+);
