@@ -39,6 +39,8 @@ create or replace view reporting_view as
         date,
         case
             when session_source_medium ilike '%facebook%' or session_source_medium ilike '%instagram%' then 'Social'
+            --A bit hacky, and this won't work if non-social channels are live. However, this works for now
+            when impressions is not null then 'Social'
             else session_source_medium
         end as channel,
         campaign,
