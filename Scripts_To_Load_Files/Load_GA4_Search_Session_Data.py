@@ -1,21 +1,21 @@
 import pandas as pd
 import psycopg2
 from sqlalchemy import create_engine
+import config
 
 #For GA4 session files, we have to skip rows 0-5 and then also skip the total row at row 7 (zero-indexed)
-df = pd.read_csv(r"C:\Users\joyju\Kizuna_Care\Data_Files\GA4_Search_Session_Data.csv", skiprows = [x for x in range(0,8) if x!=6])
+df = pd.read_csv(config.ga4_search_session, skiprows = [x for x in range(0,8) if x!=6])
 
 #Then, rename the columns to match what we'll store in Postgres. Additionally, recast the date column to be a varchar rather than an int
 df.columns = ['date', 'session_google_ads_account_name', 'session_google_ads_campaign', 'session_google_ads_ad_group_name', 'sessions', 'engaged_sessions']
 df['date'] = df['date'].astype('str')
 
 #We also need to create a connection to postgres that Pandas can use (sqlalchemy based)
-conn_string = 'postgresql://joyju:kizuna_care@127.0.0.1/kizuna_care'
-db = create_engine(conn_string)
+db = create_engine(config.conn_string)
 conn = db.connect()
 
 #And our connection via psycopg2
-conn_2 = psycopg2.connect("dbname=kizuna_care user=joyju")
+conn_2 = psycopg2.connect(config.cursor_string)
 cur = conn_2.cursor()
 
 #To merge data together, we're going to take a dataframe and load it into our database temporarily

@@ -1,0 +1,181 @@
+# ----------------------------------------
+# kizunacare.com
+# Search Data - Event Metrics-Free form 1
+# 20250101-20250209
+# ----------------------------------------
+
+,,,Event name,page_view,user_engagement,session_start,first_visit,scroll,redirect_to_caregiver_form,redirect_to_family_form,Thank_You_Page,caregiver_form_submission,family_form_submission,Totals
+Date,Session Google Ads account name,Session Google Ads campaign,Session Google Ads ad group name,Event count,Event count,Event count,Event count,Event count,Event count,Event count,Event count,Event count,Event count,Event count
+,,,,2294,1453,1382,1222,684,167,129,77,47,35,7490,Grand total
+20250101,Kizuna,TS / Search / San Francisco,Brand,2,0,1,1,1,0,0,0,0,0,5
+20250101,Kizuna,TS / Search / San Francisco,Companion Care Services,2,1,3,2,1,0,0,0,0,0,9
+20250101,Kizuna,TS / Search / San Francisco,In-Home Care Services,9,2,4,2,3,2,1,0,0,0,23
+20250101,Kizuna,TS / Search / San Francisco,Old Keywords,14,11,9,8,2,2,0,0,1,0,47
+20250101,Kizuna,TS / Search / San Francisco,Personal Care Services,1,0,1,1,0,0,0,0,0,0,3
+20250101,Kizuna,TS / Search / San Francisco,Senior Care Services,6,1,4,3,1,0,0,0,0,0,15
+20250102,Kizuna,TS / Search / San Francisco,Brand,1,1,1,1,1,0,0,0,0,0,5
+20250102,Kizuna,TS / Search / San Francisco,Companion Care Services,8,2,4,4,2,2,0,0,0,0,22
+20250102,Kizuna,TS / Search / San Francisco,In-Home Care Services,43,21,24,21,11,6,0,0,2,0,128
+20250102,Kizuna,TS / Search / San Francisco,Old Keywords,51,33,27,23,21,7,4,2,2,1,171
+20250102,Kizuna,TS / Search / San Francisco,Personal Care Services,6,2,4,4,1,1,0,0,1,0,19
+20250102,Kizuna,TS / Search / San Francisco,Respite Care Services,3,4,1,1,0,1,0,0,0,0,10
+20250102,Kizuna,TS / Search / San Francisco,Senior Care Services,20,6,16,16,6,3,0,0,0,0,67
+20250103,Kizuna,TS / Search / San Francisco,Companion Care Services,21,8,5,3,6,4,1,0,2,0,50
+20250103,Kizuna,TS / Search / San Francisco,In-Home Care Services,43,19,27,20,14,6,0,0,3,0,132
+20250103,Kizuna,TS / Search / San Francisco,Old Keywords,27,14,16,14,12,6,0,0,2,0,91
+20250103,Kizuna,TS / Search / San Francisco,Personal Care Services,1,1,1,1,0,0,0,0,0,0,4
+20250103,Kizuna,TS / Search / San Francisco,Respite Care Services,2,2,2,2,1,0,0,0,0,0,9
+20250103,Kizuna,TS / Search / San Francisco,Senior Care Services,13,2,12,12,3,1,0,0,0,0,43
+20250104,Kizuna,TS / Search / San Francisco,Brand,5,4,1,0,2,0,1,0,0,0,13
+20250104,Kizuna,TS / Search / San Francisco,Companion Care Services,17,1,11,10,4,2,1,0,0,0,46
+20250104,Kizuna,TS / Search / San Francisco,In-Home Care Services,19,10,16,15,5,1,0,0,1,0,67
+20250104,Kizuna,TS / Search / San Francisco,Old Keywords,35,19,18,11,11,4,2,0,0,0,100
+20250104,Kizuna,TS / Search / San Francisco,Personal Care Services,5,3,3,2,1,1,0,0,0,0,15
+20250104,Kizuna,TS / Search / San Francisco,Senior Care Services,32,12,19,15,10,3,1,0,0,0,92
+20250105,Kizuna,TS / Search / San Francisco,Companion Care Services,13,1,8,6,5,2,0,0,0,0,35
+20250105,Kizuna,TS / Search / San Francisco,In-Home Care Services,30,16,19,16,6,4,0,0,1,0,92
+20250105,Kizuna,TS / Search / San Francisco,Old Keywords,22,9,15,13,9,3,0,0,0,0,71
+20250105,Kizuna,TS / Search / San Francisco,Personal Care Services,10,4,5,4,5,1,0,0,1,0,30
+20250105,Kizuna,TS / Search / San Francisco,Senior Care Services,31,8,20,20,9,5,1,0,1,0,95
+20250106,Kizuna,TS / Search / San Francisco,Brand,3,3,1,1,3,0,0,0,0,0,11
+20250106,Kizuna,TS / Search / San Francisco,Companion Care Services,1,0,1,1,1,0,0,0,0,0,4
+20250106,Kizuna,TS / Search / San Francisco,In-Home Care Services,27,17,14,14,5,1,3,0,0,0,81
+20250106,Kizuna,TS / Search / San Francisco,Old Keywords,62,39,26,24,19,7,3,1,3,1,185
+20250106,Kizuna,TS / Search / San Francisco,Personal Care Services,7,4,5,3,2,1,1,0,0,0,23
+20250106,Kizuna,TS / Search / San Francisco,Respite Care Services,1,1,2,1,0,0,0,0,0,0,5
+20250106,Kizuna,TS / Search / San Francisco,Senior Care Services,17,2,14,14,1,2,0,0,0,0,50
+20250107,Kizuna,TS / Search / San Francisco,Companion Care Services,3,0,3,3,1,0,0,0,0,0,10
+20250107,Kizuna,TS / Search / San Francisco,In-Home Care Services,21,11,13,12,7,3,1,0,0,0,68
+20250107,Kizuna,TS / Search / San Francisco,Old Keywords,28,20,18,18,10,2,2,3,2,1,104
+20250107,Kizuna,TS / Search / San Francisco,Personal Care Services,2,0,2,1,0,0,0,0,0,0,5
+20250107,Kizuna,TS / Search / San Francisco,Senior Care Services,14,8,10,7,4,2,0,0,1,0,46
+20250108,Kizuna,TS / Search / San Francisco,Companion Care Services,13,3,5,5,3,2,1,0,0,0,32
+20250108,Kizuna,TS / Search / San Francisco,In-Home Care Services,16,12,9,8,3,2,1,0,1,0,52
+20250108,Kizuna,TS / Search / San Francisco,Old Keywords,10,8,6,5,4,1,1,3,0,1,39
+20250108,Kizuna,TS / Search / San Francisco,Personal Care Services,3,2,1,0,1,1,0,0,0,0,8
+20250108,Kizuna,TS / Search / San Francisco,Senior Care Services,4,0,3,3,1,1,0,0,0,0,12
+20250109,Kizuna,TS / Search / San Francisco,Companion Care Services,3,3,2,2,0,0,0,0,0,0,10
+20250109,Kizuna,TS / Search / San Francisco,In-Home Care Services,14,10,6,5,3,2,0,2,1,1,44
+20250109,Kizuna,TS / Search / San Francisco,Old Keywords,13,8,6,5,4,2,1,0,1,0,40
+20250110,Kizuna,TS / Search / San Francisco,Companion Care Services,7,4,4,4,1,1,1,0,0,0,22
+20250110,Kizuna,TS / Search / San Francisco,In-Home Care Services,35,29,17,15,6,2,2,1,1,1,109
+20250110,Kizuna,TS / Search / San Francisco,Old Keywords,16,8,12,12,5,1,2,0,0,0,56
+20250110,Kizuna,TS / Search / San Francisco,Personal Care Services,1,1,1,1,0,0,0,0,0,0,4
+20250110,Kizuna,TS / Search / San Francisco,Respite Care Services,1,1,1,1,0,0,0,0,0,0,4
+20250110,Kizuna,TS / Search / San Francisco,Senior Care Services,7,7,6,5,1,0,1,0,0,0,27
+20250111,Kizuna,TS / Search / San Francisco,In-Home Care Services,2,1,2,2,0,0,0,0,0,0,7
+20250111,Kizuna,TS / Search / San Francisco,Old Keywords,7,5,5,5,2,1,0,0,0,0,25
+20250111,Kizuna,TS / Search / San Francisco,Respite Care Services,1,1,1,1,0,0,0,0,0,0,4
+20250111,Kizuna,TS / Search / San Francisco,Senior Care Services,1,1,1,1,1,0,0,0,0,0,5
+20250112,Kizuna,TS / Search / San Francisco,Companion Care Services,2,2,1,1,2,1,0,0,0,0,9
+20250112,Kizuna,TS / Search / San Francisco,In-Home Care Services,17,13,11,10,5,1,1,0,1,0,59
+20250112,Kizuna,TS / Search / San Francisco,Old Keywords,23,13,15,15,8,2,2,3,1,1,83
+20250112,Kizuna,TS / Search / San Francisco,Personal Care Services,1,1,1,0,0,0,0,0,0,0,3
+20250112,Kizuna,TS / Search / San Francisco,Respite Care Services,3,3,2,2,0,0,0,0,0,0,10
+20250112,Kizuna,TS / Search / San Francisco,Senior Care Services,1,0,1,1,1,0,0,0,0,0,4
+20250113,Kizuna,TS / Search / San Francisco,Companion Care Services,1,1,1,1,0,0,0,0,0,0,4
+20250113,Kizuna,TS / Search / San Francisco,In-Home Care Services,12,11,10,9,1,0,2,0,0,0,45
+20250113,Kizuna,TS / Search / San Francisco,Old Keywords,13,10,9,8,3,1,2,0,0,0,46
+20250113,Kizuna,TS / Search / San Francisco,Senior Care Services,1,1,1,1,0,0,0,0,0,0,4
+20250114,Kizuna,TS / Search / San Francisco,Companion Care Services,3,3,3,3,0,0,0,0,0,0,12
+20250114,Kizuna,TS / Search / San Francisco,In-Home Care Services,3,2,3,3,1,0,0,0,0,0,12
+20250114,Kizuna,TS / Search / San Francisco,Old Keywords,22,15,9,8,8,3,3,2,0,1,71
+20250115,Kizuna,TS / Search / San Francisco,In-Home Care Services,10,9,4,4,3,0,2,0,0,0,32
+20250115,Kizuna,TS / Search / San Francisco,Old Keywords,26,18,18,15,10,1,4,0,0,0,92
+20250115,Kizuna,TS / Search / San Francisco,Personal Care Services,1,0,1,0,1,0,0,0,0,0,3
+20250115,Kizuna,TS / Search / San Francisco,Respite Care Services,1,1,1,1,1,0,0,0,0,0,5
+20250116,Kizuna,TS / Search / San Francisco,Brand,1,0,1,0,0,0,0,0,0,0,2
+20250116,Kizuna,TS / Search / San Francisco,Companion Care Services,2,2,1,1,0,0,0,0,0,0,6
+20250116,Kizuna,TS / Search / San Francisco,In-Home Care Services,27,19,18,15,11,1,1,0,0,0,92
+20250116,Kizuna,TS / Search / San Francisco,Old Keywords,53,45,25,23,14,1,5,3,0,2,171
+20250116,Kizuna,TS / Search / San Francisco,Personal Care Services,2,2,2,1,0,0,0,0,0,0,7
+20250117,Kizuna,TS / Search / San Francisco,Brand,1,0,1,0,0,0,0,0,0,0,2
+20250117,Kizuna,TS / Search / San Francisco,Companion Care Services,5,3,2,2,2,2,0,0,0,0,16
+20250117,Kizuna,TS / Search / San Francisco,In-Home Care Services,37,24,24,22,8,1,4,6,0,2,128
+20250117,Kizuna,TS / Search / San Francisco,Old Keywords,29,23,20,19,8,2,2,0,0,0,103
+20250117,Kizuna,TS / Search / San Francisco,Personal Care Services,1,0,1,1,0,0,0,0,0,0,3
+20250117,Kizuna,TS / Search / San Francisco,Respite Care Services,3,2,3,3,1,0,0,0,0,0,12
+20250117,Kizuna,TS / Search / San Francisco,Senior Care Services,6,6,3,3,0,0,0,2,0,1,21
+20250118,Kizuna,TS / Search / San Francisco,Brand,6,6,1,0,3,0,1,0,0,0,17
+20250118,Kizuna,TS / Search / San Francisco,Companion Care Services,16,15,3,3,3,3,1,0,2,0,46
+20250118,Kizuna,TS / Search / San Francisco,In-Home Care Services,3,3,3,3,0,0,0,0,0,0,12
+20250118,Kizuna,TS / Search / San Francisco,Old Keywords,22,12,15,15,7,1,3,4,0,2,81
+20250118,Kizuna,TS / Search / San Francisco,Personal Care Services,1,2,1,1,0,0,0,0,0,0,5
+20250118,Kizuna,TS / Search / San Francisco,Respite Care Services,2,2,2,2,0,0,0,0,0,0,8
+20250118,Kizuna,TS / Search / San Francisco,Senior Care Services,1,1,1,1,1,0,0,0,0,0,5
+20250119,Kizuna,TS / Search / San Francisco,Brand,4,2,1,1,1,1,0,0,1,0,11
+20250119,Kizuna,TS / Search / San Francisco,Companion Care Services,4,4,4,4,0,0,0,0,0,0,16
+20250119,Kizuna,TS / Search / San Francisco,In-Home Care Services,31,22,22,21,6,1,3,0,0,0,106
+20250119,Kizuna,TS / Search / San Francisco,Old Keywords,49,33,32,27,14,4,3,1,1,0,164
+20250119,Kizuna,TS / Search / San Francisco,Personal Care Services,1,0,1,1,0,0,0,0,0,0,3
+20250119,Kizuna,TS / Search / San Francisco,Respite Care Services,3,0,3,2,0,0,0,0,0,0,8
+20250119,Kizuna,TS / Search / San Francisco,Senior Care Services,13,12,9,9,4,2,0,0,1,0,50
+20250120,Kizuna,TS / Search / San Francisco,Brand,3,1,1,1,1,0,0,0,0,0,7
+20250120,Kizuna,TS / Search / San Francisco,In-Home Care Services,20,17,14,11,5,0,2,0,0,0,69
+20250120,Kizuna,TS / Search / San Francisco,Old Keywords,10,7,9,7,4,0,0,0,0,0,37
+20250120,Kizuna,TS / Search / San Francisco,Personal Care Services,1,0,1,1,0,0,0,0,0,0,3
+20250120,Kizuna,TS / Search / San Francisco,Respite Care Services,1,1,1,1,0,0,0,0,0,0,4
+20250120,Kizuna,TS / Search / San Francisco,Senior Care Services,3,3,3,2,0,0,0,0,0,0,11
+20250121,Kizuna,TS / Search / San Francisco,In-Home Care Services,10,8,10,10,2,0,0,0,0,0,40
+20250121,Kizuna,TS / Search / San Francisco,Old Keywords,19,11,11,9,7,1,2,0,1,0,61
+20250121,Kizuna,TS / Search / San Francisco,Respite Care Services,3,2,2,2,0,0,1,0,0,0,10
+20250121,Kizuna,TS / Search / San Francisco,Senior Care Services,2,1,2,2,1,0,0,0,0,0,8
+20250122,Kizuna,TS / Search / San Francisco,Companion Care Services,2,3,1,1,1,0,0,0,0,0,8
+20250122,Kizuna,TS / Search / San Francisco,In-Home Care Services,23,17,13,12,6,0,2,2,0,1,76
+20250122,Kizuna,TS / Search / San Francisco,Old Keywords,23,18,15,10,12,2,3,0,0,0,83
+20250122,Kizuna,TS / Search / San Francisco,Respite Care Services,4,3,4,3,0,0,0,0,0,0,14
+20250122,Kizuna,TS / Search / San Francisco,Senior Care Services,5,2,3,3,0,0,0,0,0,0,13
+20250123,Kizuna,TS / Search / San Francisco,Companion Care Services,1,1,1,1,1,0,0,0,0,0,5
+20250123,Kizuna,TS / Search / San Francisco,In-Home Care Services,23,16,12,11,4,0,3,0,0,0,69
+20250123,Kizuna,TS / Search / San Francisco,Old Keywords,22,15,15,13,4,1,1,2,0,1,74
+20250123,Kizuna,TS / Search / San Francisco,Senior Care Services,3,2,2,2,0,0,0,0,0,0,9
+20250124,Kizuna,TS / Search / San Francisco,Brand,4,3,1,1,3,1,0,0,1,0,14
+20250124,Kizuna,TS / Search / San Francisco,In-Home Care Services,25,14,10,9,5,4,0,0,3,0,70
+20250124,Kizuna,TS / Search / San Francisco,Old Keywords,21,15,12,12,5,2,1,2,0,1,71
+20250124,Kizuna,TS / Search / San Francisco,Senior Care Services,4,4,3,2,2,0,0,0,0,0,15
+20250125,Kizuna,TS / Search / San Francisco,Brand,1,0,1,0,0,0,0,0,0,0,2
+20250125,Kizuna,TS / Search / San Francisco,In-Home Care Services,24,15,9,8,6,1,3,9,1,2,78
+20250125,Kizuna,TS / Search / San Francisco,Old Keywords,34,26,18,16,8,0,3,7,0,2,114
+20250125,Kizuna,TS / Search / San Francisco,Senior Care Services,2,0,2,2,0,0,0,0,0,0,6
+20250126,Kizuna,TS / Search / San Francisco,In-Home Care Services,18,11,12,11,4,1,0,0,0,0,57
+20250126,Kizuna,TS / Search / San Francisco,Old Keywords,38,27,22,20,10,2,7,2,0,1,129
+20250126,Kizuna,TS / Search / San Francisco,Senior Care Services,7,2,4,4,2,0,1,1,0,1,22
+20250127,Kizuna,TS / Search / San Francisco,In-Home Care Services,24,20,15,15,9,1,1,0,0,0,85
+20250127,Kizuna,TS / Search / San Francisco,Old Keywords,42,35,21,18,11,0,2,5,1,2,137
+20250127,Kizuna,TS / Search / San Francisco,Senior Care Services,9,7,3,3,2,0,1,3,0,1,29
+20250128,Kizuna,TS / Search / San Francisco,Brand,1,0,1,1,0,1,0,0,0,0,4
+20250128,Kizuna,TS / Search / San Francisco,In-Home Care Services,12,9,10,9,1,1,0,0,0,0,42
+20250128,Kizuna,TS / Search / San Francisco,Old Keywords,43,34,19,18,11,3,1,0,0,0,129
+20250128,Kizuna,TS / Search / San Francisco,Senior Care Services,1,1,1,1,1,0,0,0,0,0,5
+20250129,Kizuna,TS / Search / San Francisco,Brand,1,1,2,0,0,0,0,0,0,0,4
+20250129,Kizuna,TS / Search / San Francisco,In-Home Care Services,28,13,18,18,8,2,3,0,0,0,90
+20250129,Kizuna,TS / Search / San Francisco,Old Keywords,24,17,14,13,6,1,3,2,0,1,81
+20250129,Kizuna,TS / Search / San Francisco,Senior Care Services,3,3,3,3,0,0,0,0,0,0,12
+20250130,Kizuna,TS / Search / San Francisco,In-Home Care Services,21,16,13,10,3,0,1,2,1,1,68
+20250130,Kizuna,TS / Search / San Francisco,Old Keywords,13,6,12,9,5,0,1,0,0,2,48
+20250130,Kizuna,TS / Search / San Francisco,Senior Care Services,6,5,3,3,0,0,0,0,0,0,17
+20250131,Kizuna,TS / Search / San Francisco,In-Home Care Services,13,10,7,5,6,0,0,0,0,0,41
+20250131,Kizuna,TS / Search / San Francisco,Old Keywords,14,9,9,8,5,1,0,0,0,0,46
+20250131,Kizuna,TS / Search / San Francisco,Senior Care Services,9,7,2,2,2,0,0,0,0,0,22
+20250201,Kizuna,TS / Search / San Francisco,In-Home Care Services,24,20,11,10,12,1,1,2,1,1,83
+20250201,Kizuna,TS / Search / San Francisco,Old Keywords,24,16,12,11,14,2,0,2,0,1,82
+20250201,Kizuna,TS / Search / San Francisco,Senior Care Services,11,5,2,2,6,2,0,0,1,0,29
+20250202,Kizuna,TS / Search / San Francisco,In-Home Care Services,24,11,17,17,12,0,0,0,0,0,81
+20250202,Kizuna,TS / Search / San Francisco,Old Keywords,21,12,16,14,8,1,1,1,1,1,76
+20250202,Kizuna,TS / Search / San Francisco,Senior Care Services,5,2,5,5,3,0,0,0,0,0,20
+20250203,Kizuna,TS / Search / San Francisco,In-Home Care Services,23,12,17,15,6,1,2,0,0,0,76
+20250203,Kizuna,TS / Search / San Francisco,Old Keywords,35,18,16,15,11,1,2,0,0,0,98
+20250203,Kizuna,TS / Search / San Francisco,Senior Care Services,6,5,5,5,1,0,0,0,0,0,22
+20250204,Kizuna,TS / Search / San Francisco,In-Home Care Services,24,17,22,19,11,0,1,0,0,0,94
+20250204,Kizuna,TS / Search / San Francisco,Old Keywords,11,9,7,5,1,1,0,0,0,0,34
+20250204,Kizuna,TS / Search / San Francisco,Senior Care Services,9,6,6,6,4,1,0,0,0,0,32
+20250205,Kizuna,TS / Search / San Francisco,In-Home Care Services,37,23,17,16,13,1,0,0,1,0,108
+20250205,Kizuna,TS / Search / San Francisco,Old Keywords,12,7,6,5,6,0,1,0,0,0,37
+20250205,Kizuna,TS / Search / San Francisco,Senior Care Services,1,0,1,1,0,0,0,0,0,0,3
+20250206,Kizuna,TS / Search / San Francisco,In-Home Care Services,39,31,24,22,12,0,2,2,0,1,133
+20250206,Kizuna,TS / Search / San Francisco,Old Keywords,2,3,2,0,0,0,0,0,0,0,7
+20250207,Kizuna,TS / Search / San Francisco,In-Home Care Services,36,18,28,24,13,2,4,0,1,0,126
+20250208,Kizuna,TS / Search / San Francisco,In-Home Care Services,14,10,7,6,8,0,2,0,0,0,47
+20250208,Kizuna,TS / Search / San Francisco,Old Keywords,7,7,1,0,3,0,0,0,0,0,18
+20250209,Kizuna,TS / Search / San Francisco,In-Home Care Services,14,14,9,9,9,0,0,0,0,0,55
+

@@ -1,10 +1,10 @@
 import pandas as pd
 import psycopg2
 from sqlalchemy import create_engine
-
+import config
 
 #For Google ads files, we need to skip the first two rows of the file
-df = pd.read_csv(r"C:\Users\joyju\Kizuna_Care\Data_Files\Google_Ads_Data.csv", skiprows = 2)
+df = pd.read_csv(config.google_ads, skiprows = 2)
 
 #Then, we need to replace every instance of -- with NaNs
 df['Events / session (GA4)'] = df['Events / session (GA4)'].replace(to_replace={'--': pd.NA})
@@ -13,12 +13,11 @@ df['Events / session (GA4)'] = df['Events / session (GA4)'].replace(to_replace={
 df.columns = ['day', 'campaign', 'ad_group', 'impressions', 'clicks', 'ctr', 'currency_code', 'cost', 'conversions', 'conversion_rate', 'events_per_ga4_session']
 
 #We also need to create a connection to postgres that Pandas can use (sqlalchemy based)
-conn_string = 'postgresql://joyju:kizuna_care@127.0.0.1/kizuna_care'
-db = create_engine(conn_string)
+db = create_engine(config.conn_string)
 conn = db.connect()
 
 #And our connection via psycopg2
-conn_2 = psycopg2.connect("dbname=kizuna_care user=joyju")
+conn_2 = psycopg2.connect(config.cursor_string)
 cur = conn_2.cursor()
 
 #To merge data together, we're going to take a dataframe and load it into our database temporarily

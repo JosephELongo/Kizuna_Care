@@ -1,14 +1,25 @@
 import pandas as pd
 import psycopg2
 from sqlalchemy import create_engine
+import config
 
-df = pd.read_csv(r"C:\Users\joyju\Kizuna_Care\Data_Files\Meta_Data.csv")
+df = pd.read_csv(config.meta)
 
 #For Meta files, we have to remove the totals row that shows up in the first line. We also need to remove the dollar sign from cost, the double quote from impressions, and the comma from impressions. We also cast cost, imps, and clicks to floats
 #Lastly, we replace NaN's with 0s
 df = df[df["Day"].notna()]
-df['Amount spent (USD)'] = df['Amount spent (USD)'].str.replace('$', '').astype(float)
-df['Impressions'] = df['Impressions'].str.replace('\"', '').str.replace(',', '').astype(float)
+
+#It's possible that Meta will format a file with $ in the cost column. If that's the case, remove them. The same is true for commas in the impressions column
+try:
+    df['Amount spent (USD)'] = df['Amount spent (USD)'].str.replace('$', '').astype(float)
+except:
+    pass
+
+try:
+    df['Impressions'] = df['Impressions'].str.replace('\"', '').str.replace(',', '').astype(float)
+except:
+    pass
+
 df['Link clicks'] = df['Link clicks'].astype(float)
 df.fillna(0, inplace=True)
 
@@ -16,12 +27,11 @@ df.fillna(0, inplace=True)
 df.columns = ['day', 'campaign_name', 'ad_set_name', 'ad_name', 'spend', 'impressions', 'link_clicks', 'family_form_submissions']
 
 #We also need to create a connection to postgres that Pandas can use (sqlalchemy based)
-conn_string = 'postgresql://joyju:kizuna_care@127.0.0.1/kizuna_care'
-db = create_engine(conn_string)
+db = create_engine(config.conn_string)
 conn = db.connect()
 
 #And our connection via psycopg2
-conn_2 = psycopg2.connect("dbname=kizuna_care user=joyju")
+conn_2 = psycopg2.connect(config.cursor_string)
 cur = conn_2.cursor()
 
 #To merge data together, we're going to take a dataframe and load it into our database temporarily
