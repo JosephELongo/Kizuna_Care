@@ -4,11 +4,25 @@ from sqlalchemy import create_engine
 import config
 
 #For GA4 event files, we have to skip rows 0-6 and then also skip the total row at row 8 (zero-indexed)
-df = pd.read_csv(config.ga4_non_search_event_data, skiprows = [x for x in range(0,9) if x!=7])
+df = pd.read_csv(config.ga4_non_search_event_data, skiprows = [x for x in range(0,9) if x!=6])
+
+new_col_names = []
+for i in range(len(df.columns)):
+    if i==0:
+        new_col_names.append('date')
+    elif i==1:
+        new_col_names.append('session_source_medium')
+    elif i==2:
+        new_col_names.append('session_campaign')
+    elif i==3:
+        new_col_names.append('session_manual_ad_content')
+    elif i==4:
+        new_col_names.append('session_manual_term')
+    else:
+        new_col_names.append(df.columns[i].lower())
 
 #Then, rename the columns to match what we'll store in Postgres. Additionally, recast the date column to be a varchar rather than an int
-df.columns = ['date', 'session_source_medium', 'session_campaign', 'session_manual_ad_content', 'session_manual_term', 'page_view', 'session_start', 'user_engagement', 'first_visit', 'scroll',
-              'redirect_to_caregiver_form', 'redirect_to_family_form', 'caregiver_form_submission', 'thank_you_page', 'family_form_submission', 'totals']
+df.columns = new_col_names
 df['date'] = df['date'].astype('str')
 
 #We also need to create a connection to postgres that Pandas can use (sqlalchemy based)
