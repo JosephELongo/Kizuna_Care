@@ -61,7 +61,7 @@ when matched then
         first_visit = new.first_visit,
         scroll = new.scroll,
         redirect_to_caregiver_form = new.redirect_to_caregiver_form,
-        redirect_to_family_form = new.redirect_to_caregiver_form,
+        redirect_to_family_form = new.redirect_to_family_form,
         caregiver_form_submission = new.caregiver_form_submission,
         thank_you_page = new.thank_you_page,
         family_form_submission = new.family_form_submission,
