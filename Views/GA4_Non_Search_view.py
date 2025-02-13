@@ -2,7 +2,7 @@ import pandas as pd
 import psycopg2
 
 #Create a connection to Postgres
-conn = psycopg2.connect("dbname=kizuna_care user=joyju")
+conn = psycopg2.connect("dbname=kizuna_care user=admin")
 cur = conn.cursor()
 
 query = '''

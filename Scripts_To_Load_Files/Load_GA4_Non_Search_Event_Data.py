@@ -4,8 +4,11 @@ from sqlalchemy import create_engine
 import config
 
 #For GA4 event files, we have to skip rows 0-6 and then also skip the total row at row 8 (zero-indexed)
+#Additionally skip row 7 to get around the column name issue described more below
 df = pd.read_csv(config.ga4_non_search_event_data, skiprows = [x for x in range(0,9) if x!=6])
 
+#GA4 column names are not consistent when you pivot by a column. To get around this, we load in one row earlier in the file which includes the name of each event
+#However, this means the first few columns do not have a given value. To handle that, hardcode them (they will not change as they are dimensions selected in a specific order)
 new_col_names = []
 for i in range(len(df.columns)):
     if i==0:
@@ -21,7 +24,7 @@ for i in range(len(df.columns)):
     else:
         new_col_names.append(df.columns[i].lower())
 
-#Then, rename the columns to match what we'll store in Postgres. Additionally, recast the date column to be a varchar rather than an int
+#Rename the columns to match what we'll store in Postgres. Additionally, recast the date column to be a varchar rather than an int
 df.columns = new_col_names
 df['date'] = df['date'].astype('str')
 
